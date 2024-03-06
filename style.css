@@ -1,0 +1,115 @@
+body {
+    background-color: black;
+}
+
+div.container{
+   
+    width: 400px;
+    margin: auto;
+}
+
+div.post{
+    background-color: white;
+    height: 500px;
+    margin-top: 5%;
+    font-family: "nunito";
+}
+
+div.postheader{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+div.iconhtml{
+    font-size: 40px;
+    display: flex;
+}
+    
+div.textLeft{
+    flex-direction: column;
+    display: flex;
+    margin-left: 20px;
+}
+    
+div.postheaderLeft{
+    display: flex;
+     padding: 5px;
+     width: 50%;
+}
+
+div.postheaderRight{
+    font-size: 30px;
+    width: 5%;
+    padding: 5px;
+}
+    
+img{
+    width: 100%;
+    height: 275px;
+    }
+
+    .icons{
+        display: flex;
+        font-size: 20px;
+        height: 15%;
+    }
+        
+    .iconsleft{
+        width: 95%;
+        padding: 5px;
+    }
+        
+    .iconright {
+        width:5%;
+        padding: 5px;
+    }
+        
+    
+    .iconright :hover{
+        color: blue;
+    }
+        
+    .headbody{
+        width: 100%;
+        margin-top: 7%;
+        text-align: center;
+    }
+        
+        
+    .textbody{
+        font-size:13px;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+        
+    .PostBody{
+        height: 20%;
+    }
+    
+
+    
+
+    
+    
+    
+
+
+   
+    
+
+    
+
+
+
+    
+    
+
+     
+    
+
+     
+     
+
