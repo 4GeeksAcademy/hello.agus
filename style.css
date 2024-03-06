@@ -28,19 +28,19 @@ div.iconhtml{
     display: flex;
 }
     
-div.textLeft{
+div.textleft{
     flex-direction: column;
     display: flex;
     margin-left: 20px;
 }
     
-div.postheaderLeft{
+div.postheaderleft{
     display: flex;
      padding: 5px;
      width: 50%;
 }
 
-div.postheaderRight{
+div.postheaderright{
     font-size: 30px;
     width: 5%;
     padding: 5px;
@@ -85,31 +85,6 @@ img{
         margin-right: 5%;
     }
         
-    .PostBody{
+    .postbody{
         height: 20%;
     }
-    
-
-    
-
-    
-    
-    
-
-
-   
-    
-
-    
-
-
-
-    
-    
-
-     
-    
-
-     
-     
-
